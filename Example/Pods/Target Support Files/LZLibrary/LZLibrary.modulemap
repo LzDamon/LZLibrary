@@ -1,0 +1,6 @@
+framework module LZLibrary {
+  umbrella header "LZLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

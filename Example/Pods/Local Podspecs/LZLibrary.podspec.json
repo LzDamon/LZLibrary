@@ -1,0 +1,22 @@
+{
+  "name": "LZLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of LZLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DamonLee/LZLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DamonLee": "lizhen02@keep.com"
+  },
+  "source": {
+    "git": "https://github.com/DamonLee/LZLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LZLibrary/Classes/**/*"
+}
